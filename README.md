@@ -60,7 +60,8 @@ if __name__ == "__main__":
     print("Program stopped.")
 
 ## OUPUT
-<img width="490" alt="Screenshot 2024-02-27 194016" src="https://github.com/DurgaV240106/2b_SLIDING_WINDOW_PROTOCOL/assets/144870878/16029219-912e-49b5-b94c-d859457aad54">
+<img width="490" alt="Screenshot 2024-02-27 194016" src="https://github.com/DurgaV240106/2b_SLIDING_WINDOW_PROTOCOL/assets/144870878/1738751a-7faf-4c3a-ae5c-93eea39e9042">
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
