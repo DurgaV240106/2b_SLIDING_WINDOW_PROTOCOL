@@ -58,9 +58,11 @@ if __name__ == "__main__":
     receiver(frames, window_size)
 
     print("Program stopped.")
-
+```
 ## OUPUT
-<img width="490" alt="Screenshot 2024-02-27 194016" src="https://github.com/DurgaV240106/2b_SLIDING_WINDOW_PROTOCOL/assets/144870878/1738751a-7faf-4c3a-ae5c-93eea39e9042">
+
+<img width="490" alt="Screenshot 2024-02-27 194016" src="https://github.com/DurgaV240106/2b_SLIDING_WINDOW_PROTOCOL/assets/144870878/de6b4f5d-1740-448b-a527-4b85196dcccb">
+
 
 
 ## RESULT
